@@ -5,6 +5,7 @@
   "type": "service",
   "author": "pablo",
   "categories": ["Developer tools"],
+  "dockerTimeout": "2min",
   "links": {
     "homepage": "https://your-project-homepage-or-docs.io"
   },
