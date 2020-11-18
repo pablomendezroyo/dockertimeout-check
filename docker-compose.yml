@@ -1,0 +1,6 @@
+version: "3.4"
+services:
+  pablo.public.dappnode.eth:
+    build: ./build
+    image: "pablo.public.dappnode.eth:0.1.0"
+    restart: always
